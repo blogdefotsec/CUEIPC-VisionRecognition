@@ -1,7 +1,7 @@
 # CUEIPC-VisionRecognitionIntroduction
 [简体中文](README_CN.md)
 
-Notice: This Document is translated from the Chinese version by Large Language Model. If there are any parts of the document that are semantically incorrect or difficult to understand, please raise them in the issues. However, the code will not be updated further.
+Notice: This Document is translated from the Chinese version by Large Language Model. If there are any parts of the document that are semantically incorrect or difficult to understand, please raise them in the issues. However, the code will not be updated further. But pull requests are welcome.
 
 CUEIPC-LogisticsVehicleAI is a vision recognition system designed for the "China College Students Engineering Innovation and Practice Competition" - Logistics Vehicle Track. The OpenMV H7 Plus is used as the edge computing device.
 
